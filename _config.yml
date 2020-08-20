@@ -11,7 +11,7 @@ title                    : "Nathaniel Hawkins"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://nathawkins.info
+url                      : https://nathawkins.github.io
 baseurl                  : 
 repository               : "nathawkins/nathawkins.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
