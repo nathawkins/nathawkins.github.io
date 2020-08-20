@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Nathaniel Hawkins"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Nathaniel Hawkins"
 description              : &description "personal description"
 url                      : https://nathawkins.github.io
 baseurl                  : 
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "nat_hawkins_"
 facebook:
   username               :
   app_id                 :
@@ -66,9 +66,9 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Organization # Person or Organization (defaults to Person)
+  name                   : The Krishnan Lab # If the user or organization name differs from the site's name
+  links: thekrishnanlab.org # An array of links to social media profiles
 
 
 # Analytics
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Detroit # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
