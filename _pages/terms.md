@@ -7,6 +7,8 @@ modified: 2016-06-06
 {% include base_path %}
 {% include toc %}
 
+**Note**: When I forked the initial repository to create my website, this was the Privacy Policy attached with it. I have left it as is for now, though it may change in the future.
+
 ## Privacy Policy
 
 The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
