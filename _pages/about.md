@@ -10,7 +10,7 @@ redirect_from:
 
 ![](../images/lab.jpg)
 
-I am a second-year PhD student studying Computational Mathematics, Science, and Engineering (CMSE) at Michigan State University in East Lansing, Michigan. I am proudly part of [the Krishnan Lab](www.thekrishnanlab.org) (pictured above) under the mentorship of Dr. Krishnan. My research focuses on applying methods from the field of natural-language processing to studying biomedical texts. In a way, I am trying to teach computers how to read! I train machine learning models from free-text to predict systematic annotations for tissues and cell types.
+I am a second-year PhD student studying Computational Mathematics, Science, and Engineering (CMSE) at Michigan State University in East Lansing, Michigan. I am proudly part of [the Krishnan Lab](https://www.thekrishnanlab.org) (pictured above) under the mentorship of Dr. Krishnan. My research focuses on applying methods from the field of natural-language processing to studying biomedical texts. In a way, I am trying to teach computers how to read! I train machine learning models from free-text to predict systematic annotations for tissues and cell types.
 
 ## Research Interests
 
@@ -46,7 +46,7 @@ Outside of that, I also really enjoy:
 * Brewing beer
 * Playing Dungeons and Dragons (5e)
 
- I'm also getting married next year, which is awesome.
+ I'm also getting married next year, which is awesome. Here I am with my wonderful partner.
 
 ![](../images/engagement.jpg)
 
@@ -59,3 +59,5 @@ I received my Bachelor's of Science in Physics from Michigan State as well with 
 In my junior year of undergraduate, I took my first computational science course. I quickly realized computers were a passion of mine. Computers and programming became such a natural fixation of mine. The logical flow of execution, tedious attention to detail needed to successfully create a program, and the seemingly endless possibilities for creation were the perfect fit for my nerdy brain. I started working with [Dr. Piermarocchi](https://web.pa.msu.edu/people/carlo/) in the summer of 2017 on computational biophysics research. We applied a neural network called the Hopfield model to [studying single-cell gene expression data during the cell cycle](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005849), but my primary focus was on developing a cross-validation scheme for identifying the optimal number of clusters in single-cell expression data from peripheral blood mononuclear cells. This was part of a larger work to develop a voting-based algorithm for assigning cell types using curated marker gene lists. [Check out our paper](../files/p-dcs.pdf).
 
 When I finished my undergraduate degree, I took a year to work with the [Department of Computational Mathematics, Science, and Engineering](https://cmse.msu.edu/) on a new education research project. I worked with [Dr. O'Shea](https://cmse.msu.edu/directory/faculty/brian-o-shea/), [Dr. Silvia](http://devinsilvia.com/), and [Dr. Caballero](http://dannycaballero.info/) on a project to understand the core competencies from the field of computational modeling and data analysis that students need to develop in their undergraduate careers to be successful in academia or indsutry. We're currently working on finishing this up for publication.
+
+Now I'm in graduate school studying computational science and computational biology working towards my PhD. If you're interested in talking about research, hobbies, or want to get to know me, send me an email or reach out to me on social media.
