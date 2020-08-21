@@ -46,7 +46,7 @@ Outside of that, I also really enjoy:
 
  I'm also getting married next year, which is awesome.
 
-![](../images/engagement.png)
+![](../images/engagement.jpg)
 
 ## About Me
 
