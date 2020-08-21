@@ -43,7 +43,7 @@ Outside of that, I also really enjoy:
 * Playing the ukulele
 * Watching anything with Gordon Ramsay in it (_Kitchen Nightmare's_ is my personal favorite) or anything narrated by David Attenborough
 * Running
-* Brewing beer
+* Brewing (and subsequently drinking) beer
 * Playing Dungeons and Dragons (5e)
 
  I'm also getting married next year, which is awesome. Here I am with my wonderful partner.
