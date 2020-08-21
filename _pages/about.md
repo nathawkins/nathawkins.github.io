@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![](../images/lab.jpg)
+
 I am a second-year PhD student studying Computational Mathematics, Science, and Engineering (CMSE) at Michigan State University in East Lansing, Michigan. I am proudly part of [the Krishnan Lab](thekrishnanlab.org) under the mentorship of Dr. Krishnan. My research focuses on applying methods from the field of natural-language processing to studying biomedical texts. In a way, I am trying to teach computers how to read! I train machine learning models from free-text to predict systematic annotations for tissues and cell types.
 
 ## Research Interests
@@ -49,6 +51,8 @@ Outside of that, I also really enjoy:
 ![](../images/engagement.jpg)
 
 ## About Me
+
+![]("../images/graduation.jpg)
 
 I received my Bachelor's of Science in Physics from Michigan State as well with a minor in computational science. I like to tell people that my trajectory to my current position is a little non traditional: I have a degree in physics with four years of experience in education research doing computational biology, but at heart, I'm just a computer nerd. I entered my undergraduate with the intent of becoming a professor of physics, specifically wanting to teach. I started working with Dr. Caballero and Dr. Irving in the [Physics Education Research Lab](https://perl.natsci.msu.edu/) at Michigan State in the spring of 2015 through to the end of 2017. My research focused on understanding student's perceptions of computation in introductory mechanics. We were able to publish our work as a conference proceedings paper at the primary national conference for physics education research, [check it out](../files/perc.pdf).
 
