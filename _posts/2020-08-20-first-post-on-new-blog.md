@@ -1,6 +1,6 @@
 ---
 title: 'I did a thing and made a website'
-date: 2020-08-20
+date: 2020-08-24
 permalink: /posts/2020/08/blog-post-1/
 tags:
   - professional development
