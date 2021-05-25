@@ -25,28 +25,27 @@ Boradly speaking, I am interested in the fields of computational science and dat
 
 ## Hobbies
 
-I'm a total nerd. My primary hobby is video games (add me on steam: `the_nat_hawk`). Some of my favorite video games of all time include:
+I'm a total nerd. My primary hobby is [video games](https://www.twitch.tv/nat_hawk) (add me on steam: `the_nat_hawk`). Some of my favorite video games of all time include:
 
 * Skyrim
 * Horizon Zero Dawn
 * Dark Souls
-* The Last of Us
+* Hollow Knight
 * Risk of Rain 2
 * Cuphead
 
 Big fan of speed running and Twitch as well! I love watching other people play video games _almost_ as much as I love playing them myself.
 
-I love everything to do with computers. Researching their components, building them, watching other people build them, you name it. [My PC](https://www.amazon.com/gp/product/B086MJ13VJ/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) is nothing special, but I absolutely love it. Happy to chat about this stuff any time!
+I love everything to do with computers. Researching their components, building them, watching other people build them, you name it. [My PC](https://www.amazon.com/gp/product/B086MJ13VJ/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) is nothing special, but it's perfect for me. Happy to chat about this stuff any time!
 
 Outside of that, I also really enjoy:
 
 * Playing the ukulele
-* Watching anything with Gordon Ramsay in it (_Kitchen Nightmare's_ is my personal favorite) or anything narrated by David Attenborough
-* Running
+* Watching anything with Gordon Ramsay in it (_Kitchen Nightmare's_ is my personal favorite) or anything narrated by Sir David Attenborough
 * Brewing (and subsequently drinking) beer
 * Playing Dungeons and Dragons (5e)
 
- I'm also getting married next year, which is awesome. Here I am with my wonderful partner.
+ I'm also getting married this year, which is awesome. Here I am with my wonderful partner.
 
 ![](../images/engagement.jpg)
 
